@@ -25,9 +25,10 @@ To install the required `tabulate` library, run:
 
 ### Usage
 
-Clone the Repository or download the script file.
+
 Update the Script:
 
+    Clone the Repository or download the script file.
     Modify the folder_path variable to point to the directory you want to analyze.
     Specify any file extensions to ignore in the ignored_files list.
     Specify any folder names to ignore in the ignored_dirs list.
