@@ -35,5 +35,10 @@ Update the Script:
 ### Run the Script:
 
 ```python filecount.py```
-![Alt text](https://raw.githubusercontent.com/arif98741/python-file-counter/master/img/output.png)
+
+### Code:
+![Terminal Output](https://raw.githubusercontent.com/arif98741/python-file-counter/master/img/code-sc.png)
+
+### Output:
+![Terminal Output](https://raw.githubusercontent.com/arif98741/python-file-counter/master/img/output.png)
 
